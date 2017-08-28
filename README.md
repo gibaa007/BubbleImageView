@@ -13,7 +13,8 @@ A perfect bubble ImageView suitable for required situations in profile images.
 ```
 # Sample Screens
 
-![image](https://github.com/Livinlawrence/BubbleImageView/master/screen_shot_1.png)
+![image](https://github.com/Livinlawrence/BubbleImageView/blob/master/screen_shot_1.png)
+
 
 # Limitations
 -----------
